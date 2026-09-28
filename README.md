@@ -145,4 +145,4 @@ Adopt the **Multi-Task Staff** configuration to reduce labor cost while keeping 
 
 ## 📚 Report
 
-The complete methodology, Input Analyzer outputs, raw observation logs and processed datasets are available in [`CAFE_SIMULATION_REPORT.pdf`](./CAFE_SIMULATION_REPORT.pdf).
+The complete methodology, Input Analyzer outputs, raw observation logs and processed datasets are available in [`CAFE SIMULATION REPORT.pdf`](./CAFE%20SIMULATION%20REPORT.pdf).
